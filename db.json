@@ -19,6 +19,87 @@
 {
 "id":5,
 "name":"Mahindra & Mahindra Ltd."
+},
+{
+"id":6,
+"name":"Tech Mahindra Ltd"
+},
+{
+"id":7,
+"name":"NTPC Ltd"
+},
+{
+"id":8,
+"name":"Sun Pharmaceutical Industries Ltd."
+},
+{
+"id":9,
+"name":"Hindalco Industries Ltd"
+},
+{
+"id":10,
+"name":"Hero MotoCorp Ltd"
+},
+{
+"id":11,
+"name":"Wipro Ltd"
+},
+{
+"id":12,
+"name":"Bharti Infratel Ltd"
+},
+{
+"id":13,
+"name":"Asian Paints Ltd"
+},
+{
+"id":14,
+"name":"Ultratech Cement Ltd"
+},
+{
+"id":15,
+"name":"HCL Technologies Ltd"
+},
+{
+"id":16,
+"name":"Bajaj Auto Ltd"
+},
+{
+"id":17,
+"name":"Eicher Motors Ltd"
+},
+{
+"id":18,
+"name":"ICICI Bank Ltd"
+},
+{
+"id":19,
+"name":"Axis Bank Ltd"
+},
+{
+"id":20,
+"name":"IndusInd Bank Ltd"
+},
+{
+"id":21,
+"name":"Coal India Ltd"
+},
+{
+"id":22,
+"name":"Gail India Ltd"
+},
+{
+"id":23,
+"name":"Bajaj Finserv Ltd"
+},
+{
+"id":24,
+"name":"HDFC Life Insurance Co Ltd"
+},
+
+{
+"id":25,
+"name":"HDFC Bank Ltd"
 }
 
 ]
